@@ -1,4 +1,4 @@
-# ElevenLabs
+# ElevenLabs x Linkup Integration
 
 This guide walks through connecting Linkup to an ElevenLabs voice agent as a webhook tool.
 
@@ -276,5 +276,4 @@ A few things worth getting right before shipping a voice agent to real users:
 
 - Explore [Linkup's search API](https://docs.linkup.so) to customize your tool further
 - Check out the [ElevenLabs Conversational AI docs](https://elevenlabs.io/docs/conversational-ai) to tune voice, model, and agent behavior
-- Join our [Discord community](https://discord.com/invite/9q9mCYJa86) for support and updates
 
