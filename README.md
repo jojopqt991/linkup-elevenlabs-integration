@@ -10,6 +10,10 @@ This is useful anywhere an LLM's training cutoff or lack of citations breaks the
 - `depth: fast` **skips LLM processing** - raw results in ~1–2 seconds, inside the window voice conversations tolerate.
 - **EU-based infrastructure** - worth noting if your agent operates in Europe.
 
+
+
+Demo video: [https://youtu.be/Jijgka0nPKo](https://youtu.be/Jijgka0nPKo)
+
 ## How it works
 
 1. User speaks to the voice agent
